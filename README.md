@@ -37,9 +37,8 @@ ANS:
 
 ## Technologies Used
 - Python 3
-- library - Seaborn, Numpy, Matplotlib, Pandas & scipy.stats
+- Library - Seaborn, Numpy, Matplotlib, Pandas, Sklearn and StatsModels
 - Git & Github for version control and file hosting
-
 
 ## Contact
 Created by @6983manish 
